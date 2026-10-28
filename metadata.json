@@ -1,0 +1,8 @@
+{
+  "name": "BullionPulse - Precious Metals & Indian Market Portfolio",
+  "description": "Real-time tracking of Gold (24K, 22K, 18K), Silver, Platinum, Palladium, Indian Stock Market indices, ETFs, custom price alerts, and diversified portfolio management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
